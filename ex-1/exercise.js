@@ -1,7 +1,7 @@
 // Example
 window.alert("Hello World!");
 // The Fortune Teller
-var children = 3;
+var children =" 3";
 var partner =" Jasmine";
 var place =" Munich";
 var job = " Manager";
